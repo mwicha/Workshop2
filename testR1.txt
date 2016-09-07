@@ -5,5 +5,9 @@ asdfsdafsdafsdaf
 
 07/09/2559 22:31
 Tomz
+<<<<<<< HEAD
 Kane
 
+=======
+Tomz4
+>>>>>>> 27b829ee9eed717fab7fe35f70a9a57e746bf05a
